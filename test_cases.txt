@@ -1,0 +1,33 @@
+Each line below is a test case to be used during the validation of the program. 
+When the program prompts the user for input, enter one test case.
+Repeat this for all test cases. The program is valid if all test cases pass based on the requirements and format rules.
+
+Test cases:
+
+Connecting to 250.0.0.0:65535endnow
+192.168.168.168:02445
+start150.0.0.37:2550.
+start150.0.0.37:2550
+start150.0.0.37:2550:2000
+1.2.3.4.5end
+server=123.256.0.0
+server=123.255.0.0:70000
+server=123.255.0.0:50000 enter
+connecting to 1.1.2.2:55 END
+connecting to 1.1.2.2;55
+connecting to 1.1.2.2:70 then 3.3.3.3 end
+find address 01.1.1.1:56
+reqeust received from 172.16.0.10:none
+12.23.56.connection lost12.34.56.78connection valid
+connecting to 192.168.1.1 now
+server=10.0.0.255:8080end
+192a168.1.1.1
+192.168.1.1.
+Connection from 192.168.1.1 refused
+192.168.01.1
+1.2.3.4:99999
+12.34.56
+no number here
+end
+End
+END
